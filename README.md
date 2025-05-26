@@ -1,6 +1,6 @@
-# Probability & Statistics 233 – Assignment
+# The Effect of CPU Specifications on Its Price
 
-This repository contains assignment work for the course **Probability and Statistics -Semester 233-**. It includes solutions to problems, code implementations, and visualizations related to fundamental concepts in probability and statistics.
+This repository contains assignment work for the course **Probability and Statistics -Semester 233-**. It includes solutions to problems, code implementations, and visualizations related to fundamental concepts in Probability and Statistics.
 
 ## 📁 Contents
 
@@ -20,8 +20,6 @@ This repository contains assignment work for the course **Probability and Statis
 
 ## 🚀 Getting Started
 
-To run the notebook:
-
 1. Ensure you have R installed on your system.
 2. Clone this repository.
    ```bash
@@ -30,4 +28,5 @@ To run the notebook:
 4. Run the script to perform the analysis.
 
 ## 📬 Contact
+
 For questions or feedback, feel free to reach out via GitHub Issues or contact @ihabcoT.
